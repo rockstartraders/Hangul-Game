@@ -1,0 +1,359 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+/* font-family: 'Comfortaa', cursive; */
+/* font-family: 'Noto Sans KR', sans-serif; */
+
+body {
+    overflow: hidden !important; /* Hide scrollbars */
+  }
+
+.sidenav {
+   
+    width: 325px;
+
+}
+
+#menu{
+    color: #37474f ;
+    margin-left: .5rem;
+    margin-top: .6rem;
+    font-size: 2rem;
+}
+
+
+#menu:hover, .fa-face-thinking:hover{
+    color: #bf360c;
+}
+
+
+.fa-face-thinking{
+    color: #37474f ;
+    float: right;
+    margin-right: 1rem;
+    margin-top: .9rem;
+    font-size: 2rem;
+}
+
+
+.subheader{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    font-size: 1rem !important;
+        
+}
+
+.waves-effect{
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Comfortaa', cursive; */
+    letter-spacing: .1rem;
+    /* font-weight: 700 !important;    */
+    color: #37474f ;
+
+    
+    
+}
+
+.user-view{
+
+    margin: auto;
+    width: 50%;
+}
+
+.circle{
+    width: 9rem !important;
+    height: 9rem !important;
+}
+
+.fa-github{
+    font-size: 2.5rem;
+    color: #6e5494 !important;
+   
+}
+
+.fa-user-tie{
+    font-size: 2.5rem;
+    color: #37474f !important;
+}
+
+.fa-lightbulb{
+    font-size: 2.5rem;
+    color: #37474f !important;
+    
+}
+
+
+#about_text{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: .1rem;
+    font-weight: 500;
+    text-align: justify;
+}
+
+strong{
+    font-weight: 700;
+}
+
+#important_message{
+    color: #f27474;
+    font-weight: 700;
+}
+
+.swal2-confirm {
+    background-color: #6e7881 !important;
+    letter-spacing: .1rem;
+    font-family: 'Comfortaa', cursive;
+   
+   
+
+}
+
+.swal2-popup .swal2-styled:focus {
+    box-shadow: none !important;
+}
+
+#main_div{
+    margin-top: -5rem;
+}
+
+#hangul_character{
+    font-family: 'Noto Sans KR', sans-serif !important;
+    text-align: center;
+    font-size: 25rem;
+    font-weight: 300;
+    color: #37474f !important;
+    text-shadow: -4px 3px 8px rgba(0,0,0,0.46);
+}
+
+#invisible{
+    /* font-size: .1px; */
+    color: transparent;
+    visibility: hidden;
+    height: .1px !important;
+    
+}
+
+#answer_Field{
+    
+    padding-left: 1.5rem;
+    margin: auto;   
+    margin-top: -2rem; 
+    width: 50%;  
+   
+    
+    
+}
+
+ #answer1_btn, #answer2_btn{ 
+    display: inline-flex; 
+    font-family: 'Poppins', sans-serif; 
+    letter-spacing: .1rem;   
+    text-align: center;
+    
+    
+    
+}
+
+#answer2_btn{
+    /* margin-left: 1rem; */
+    text-align: center;
+}
+
+#answer1, #answer2{
+    font-weight: 500!important;
+    font-size: 1.5rem;
+    color: #37474f !important;
+}
+
+
+[type="radio"]:checked+span:after, [type="radio"].with-gap:checked+span:after {
+    background-color: #ff8a65;
+    border: 2px solid #ff8a65;
+}
+
+[type="radio"]:not(:checked)+span:before, [type="radio"]:not(:checked)+span:after {
+    border: 2px solid #558b2f ;
+}
+
+#btn_content{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#submit_btn{
+    margin-top: 3rem;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: white;
+    letter-spacing: .1rem;
+    background-color: #546e7a;
+    border-radius: .2rem;
+    display: none;
+}
+
+
+
+.swal2-title{
+    font-family: 'Poppins', sans-serif;    
+    font-weight: 500!important;
+    font-size: 2rem;
+    color: #37474f !important;
+    letter-spacing: .1rem;
+}
+
+#swal_error{
+    margin-top: -.5rem;
+    font-family: 'Poppins', sans-serif;    
+    font-weight: 500!important;
+    font-size: 2rem;
+    color: #37474f !important;
+    letter-spacing: .1rem;
+} 
+
+.swal2-confirm {
+    background-color: #546e7a!important;
+    letter-spacing: .1rem;
+    font-family: 'Poppins', sans-serif;    
+}
+
+
+.swal2-html-container{
+    font-family: 'Poppins', sans-serif;    
+    font-weight: 500!important;
+    text-align: justify;
+    letter-spacing: .1rem;
+}
+
+#error_display{
+   display: none;
+ }
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+
+/* Media Query for Laptop and desktop */
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+    #answer_Field{
+        margin-top: -3rem;
+        margin-bottom: 5rem;
+        /* margin: auto; */
+        /* margin-left: 40%; */
+        width: 50%;
+        text-align: center;      
+    }
+
+
+    #hangul_character{
+        font-family: 'Noto Sans KR', sans-serif !important;
+        text-align: center;
+        font-size: 25rem;
+        font-weight: 300;
+        color: #37474f !important;
+        text-shadow: -4px 3px 8px rgba(0,0,0,0.46);
+    }
+
+
+    #submit_btn{
+        margin-top: 3rem;
+        width: 50%;
+
+        margin: auto;
+      
+
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        color: white;
+        letter-spacing: .1rem;
+        background-color: #546e7a;
+      
+    }
+
+    #error_display{
+        position:absolute;
+        max-width:45%;
+        max-height:45%;
+        top:50%;
+        left:50%;
+        overflow:visible;
+     }
+
+
+
+     .responsive {
+        position:relative;
+        max-width:100%;
+        max-height:100%;
+        margin-top:-50%;
+        margin-left:-50%;
+      }  
+
+    }
+    
+    /* Large screens ----------- */
+    @media only screen  and (min-width : 1824px) {
+        #answer_Field{
+            margin-top: -3rem;
+            margin-bottom: 5rem;
+            /* margin: auto; */
+            /* margin-left: 40%; */
+            width: 50%;
+            text-align: center;      
+        }
+    
+
+        #hangul_character{
+            font-family: 'Noto Sans KR', sans-serif !important;
+            text-align: center;
+            font-size: 25rem;
+            font-weight: 300;
+            color: #37474f !important;
+            text-shadow: -4px 3px 8px rgba(0,0,0,0.46);
+         }
+
+        #submit_btn{
+            margin-top: 3rem;
+            width: 50%;
+
+            margin: auto;
+            
+            font-family: 'Poppins', sans-serif;
+            font-weight: 500;
+            color: white;
+            letter-spacing: .1rem;
+            background-color: #546e7a;
+          
+        }
+
+        
+        #error_display{
+            position:absolute;
+            max-width:45%;
+            max-height:45%;
+            top:50%;
+            left:50%;
+            overflow:visible;
+         }
+    
+         .responsive {
+            position:relative;
+            max-width:100%;
+            max-height:100%;
+            margin-top:-50%;
+            margin-left:-50%;
+          }   
+      
+    }

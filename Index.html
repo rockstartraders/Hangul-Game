@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/CSS/materialize.min.css">
+    <link rel="stylesheet" href="/CSS/animate.min.css">
+    <link rel="stylesheet" href="/CSS/sweetalert2.min.css">
+    <link rel="stylesheet" href="/CSS/override.css">
+    <link rel="icon" type="image/x-icon" href="/IMG/hangul.png">
+    <title>Han-Gul Game</title>
+</head>
+<body onload="hangul();">
+
+
+    <a href="#" data-target="slide-out" class="sidenav-trigger"><i id="menu" class="material-icons">menu</i></a>
+    <i id="help" class="fa-regular fa-face-thinking fa-beat" style="--fa-animation-duration: 2s;" title="Hint" ></i>
+    
+    <!-- <i class="fa-regular fa-square-question"></i> -->
+    <ul id="slide-out" class="sidenav">
+
+       
+        <br>
+        <li><a class="subheader">Developers Information</a></li> 
+        <div class="user-view">                        
+              <img class="circle" src="/IMG/oppa.png">
+        </div>        
+        <br>
+        <li><div class="divider"></div></li>      
+        <li><a class="waves-effect" href="https://github.com/rockstartraders" target=”_blank”><i class="fa-brands fa-github"></i>View me via GITHUB</a></li>
+        <li><div class="divider"></div></li>    
+        <li><a class="waves-effect" href="https://jamespaulespena.netlify.app/" target=”_blank”><i class="fa-solid fa-user-tie"></i>Hire me as Developer</a></li>
+        <li><div class="divider"></div></li>   
+        <li><a class="waves-effect" href="#" id="about"><i class="fa-solid fa-lightbulb"></i>About this Project</a></li>
+        <li><div class="divider"></div></li>      
+    </ul>     
+
+    <!-- this is for variable comparison later  -->
+    <div id="invisible">
+        <p id="type"></p>
+        <p id="hint"></p>
+        <p id="answer"></p>
+    </div>
+
+    <div id="error_display">
+        <img src="/IMG/error_fix.png" class="responsive">
+    </div>
+
+    <div id="container"></div>
+    <div id="btn_content">                   
+        <button id="submit_btn" class="btn waves-effect waves-light center" type="submit" name="action">Submit    
+        </button>
+        </div> <!--Ecd of BTN COntent DIV-->
+
+   
+
+    
+    
+
+    <script src="/JS/materialize.min.js"></script>
+    <script src="/JS/sweetalert2.min.js"></script>    
+    <script src="/JS/main.js"></script>    
+</body>
+</html>

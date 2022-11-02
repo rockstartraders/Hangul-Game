@@ -1,0 +1,362 @@
+[
+ {
+  "No.": 1,
+  "Hangul": "ㅏ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "a",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 2,
+  "Hangul": "ㅑ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "ya",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 3,
+  "Hangul": "ㅓ ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "eo",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 4,
+  "Hangul": "ㅕ ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "yeo",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 5,
+  "Hangul": "ㅗ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "o",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 6,
+  "Hangul": "ㅛ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "yo",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 7,
+  "Hangul": "ㅜ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "u",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 8,
+  "Hangul": "ㅠ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "yu",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 9,
+  "Hangul": "ㅡ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "eu",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 10,
+  "Hangul": "ㅣ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "i",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 11,
+  "Hangul": "ㄱ",
+  "type": "Consonant",
+  "hint": "g-iyeo-k",
+  "Pronunciation1": "g/k",
+  "Divider": "/",
+  "Pronunciation2": "k"
+ },
+ {
+  "No.": 12,
+  "Hangul": "ㄴ",
+  "type": "Consonant",
+  "hint": "n-ieun",
+  "Pronunciation1": "n",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 13,
+  "Hangul": "ㄷ",
+  "type": "Consonant",
+  "hint": "d-igeu-t",
+  "Pronunciation1": "d/t",
+  "Divider": "/",
+  "Pronunciation2": "t"
+ },
+ {
+  "No.": 14,
+  "Hangul": "ㄹ",
+  "type": "Consonant",
+  "hint": "r-ieu-l",
+  "Pronunciation1": "r/l",
+  "Divider": "/",
+  "Pronunciation2": "l"
+ },
+ {
+  "No.": 15,
+  "Hangul": "ㅁ",
+  "type": "Consonant",
+  "hint": "m-ieum",
+  "Pronunciation1": "m",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 16,
+  "Hangul": "ㅂ",
+  "type": "Consonant",
+  "hint": "b-ieu-p",
+  "Pronunciation1": "b/p",
+  "Divider": "/",
+  "Pronunciation2": "p"
+ },
+ {
+  "No.": 17,
+  "Hangul": "ㅅ",
+  "type": "Consonant",
+  "hint": "s-io-t",
+  "Pronunciation1": "s/t",
+  "Divider": "/",
+  "Pronunciation2": "t"
+ },
+ {
+  "No.": 18,
+  "Hangul": "ㅇ",
+  "type": "Consonant",
+  "hint": "ieu-ng",
+  "Pronunciation1": "silent/ng",
+  "Divider": "/",
+  "Pronunciation2": "ng"
+ },
+ {
+  "No.": 19,
+  "Hangul": "ㅈ",
+  "type": "Consonant",
+  "hint": "j-ieu-t",
+  "Pronunciation1": "j/t",
+  "Divider": "/",
+  "Pronunciation2": "t"
+ },
+ {
+  "No.": 20,
+  "Hangul": "ㅊ",
+  "type": "Consonant",
+  "hint": "ch-ieu-t",
+  "Pronunciation1": "ch/t",
+  "Divider": "/",
+  "Pronunciation2": "t"
+ },
+ {
+  "No.": 21,
+  "Hangul": "ㅋ",
+  "type": "Consonant",
+  "hint": "k-ieuk",
+  "Pronunciation1": "k",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 22,
+  "Hangul": "ㅌ",
+  "type": "Consonant",
+  "hint": "t-ieut",
+  "Pronunciation1": "t",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 23,
+  "Hangul": "ㅍ",
+  "type": "Consonant",
+  "hint": "p-ieup",
+  "Pronunciation1": "p",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 24,
+  "Hangul": "ㅎ",
+  "type": "Consonant",
+  "hint": "h-ieu-t",
+  "Pronunciation1": "h/t",
+  "Divider": "/",
+  "Pronunciation2": "t"
+ },
+ {
+  "No.": 25,
+  "Hangul": "ㄲ",
+  "type": "Consonant",
+  "hint": "Answer is kk",
+  "Pronunciation1": "kk",
+  "Divider": "/",
+  "Pronunciation2": "k"
+ },
+ {
+  "No.": 26,
+  "Hangul": "ㄸ ",
+  "type": "Consonant",
+  "hint": "Answer is tt",
+  "Pronunciation1": "tt",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 27,
+  "Hangul": "ㅃ",
+  "type": "Consonant",
+  "hint": "Answer is pp",
+  "Pronunciation1": "pp",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 28,
+  "Hangul": "ㅉ",
+  "type": "Consonant",
+  "hint": "Answer is ss/t",
+  "Pronunciation1": "ss/t",
+  "Divider": "/",
+  "Pronunciation2": "t"
+ },
+ {
+  "No.": 29,
+  "Hangul": "ㅆ",
+  "type": "Consonant",
+  "hint": "Answer is jj",
+  "Pronunciation1": "jj",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 30,
+  "Hangul": "ㅐ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "ae",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 31,
+  "Hangul": "ㅔ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "e",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 32,
+  "Hangul": "ㅒ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "yae",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 33,
+  "Hangul": "ㅖ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "ye",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 34,
+  "Hangul": "ㅘ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "wa",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 35,
+  "Hangul": "ㅙ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "wae",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 36,
+  "Hangul": "ㅚ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "oe",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 37,
+  "Hangul": "ㅝ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "wo",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 38,
+  "Hangul": "ㅞ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "we",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 39,
+  "Hangul": "ㅟ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "wi",
+  "Divider": "",
+  "Pronunciation2": ""
+ },
+ {
+  "No.": 40,
+  "Hangul": "ㅢ",
+  "type": "Vowel",
+  "hint": "",
+  "Pronunciation1": "ui",
+  "Divider": "",
+  "Pronunciation2": ""
+ }
+]
